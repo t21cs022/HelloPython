@@ -44,5 +44,6 @@ print(quick_sort(data))
 
 '''
 複数行のコメント
+master
 '''
 
